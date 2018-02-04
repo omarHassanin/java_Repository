@@ -2,4 +2,4 @@
 
 
 Repository having Small JAVA programs 
-Spring AOP , ORM(JPA , hibernate) , JDBC with mysql Support , JAVA 8 EX:Lambda DEMO programs
+Spring AOP , ORM(JPA , hibernate) , JDBC with mysql Support , JAVA 8 ex:Lambda DEMO programs
